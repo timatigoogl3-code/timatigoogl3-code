@@ -24,6 +24,7 @@ No merge without a build and a run on the laptop. If there is no number from the
 
 - [dlss-moddify-3050](https://github.com/timatigoogl3-code/dlss-moddify-3050) — neural rendering patches for the laptop GPU.
 - [cjoka-engine](https://github.com/timatigoogl3-code/cjoka-engine) — engine experiment.
+- [runya-retro](https://github.com/timatigoogl3-code/runya-retro) — RetroKit mini canvas engine + a retro runner, procedural pixel art, zero deps, [live on Pages](https://timatigoogl3-code.github.io/runya-retro/).
 - [llama.cpp](https://github.com/timatigoogl3-code/llama.cpp) — fork.
 
 ## Setup
