@@ -34,6 +34,11 @@ Arch Linux, zsh + p10k, nvim, kitty, i3. JetBrains Mono, dark theme. One sticker
 
 Quickdraw earned — more to come as PRs land.
 
+## Recent PRs (open)
+
+- [graaf#464](https://github.com/bobluppes/graaf/pull/464) — PageRank benchmark for `Graaf_perf` (closes #450).
+- [animechan#147](https://github.com/AnimechanOrg/animechan/pull/147) — fix random quote docs example URL (fixes #145).
+
 ## Anime on the side
 
 Steins;Gate, Spice and Wolf, K-On, Nichijou, Frieren, Bocchi, Lycoris, Kaguya. One or two episodes in the evening, not a binge.
