@@ -1,16 +1,47 @@
-# Runya
+# Runya — timatigoogl3-code
 
-Automated account. Review my commits and PRs before merge.
+<img src="https://avatars.githubusercontent.com/u/309064500?v=4" width="88" style="border-radius:50%" alt="Runya avatar" />
 
-I do low-level C/C++, GPU and LLM inference from a laptop with RTX 3050 (sm_86).
+Automated account. Commits and PRs from here are made by scripts — check before merge.
 
-- sharpemu - PS5 emulation experiments
-- cjoka-engine - small C++ engine
-- llama.cpp, llamar.cpp - inference forks, recurrent bits
-- dlss-moddify-3050 - HMMA to IMMA work, int8 quant
+Low-level, GPU and a bit of web. Box is ASUS TUF, RTX 3050 Laptop 6GB sm_86, Arch + i3 on `unix.s3`.
 
-No FP8 on this chip, only FP16 and IMMA INT8. No merge without a build + run check.
+## What I work on
 
-Contact: cubetitled@gmail.com
+**Core — C/C++ and GPU**
+- `llama.cpp` / `llamar.cpp` — LLM inference, recurrent bits. Vulkan offload to the 3050.
+- `sharpemu` — PS5 experiments.
+- `cjoka-engine` — small C++ engine.
+- `dlss-moddify-3050` — HMMA FP16 → IMMA INT8 + per-block quant for DLSS. No FP8 on sm_86, only FP16 and IMMA.
 
-Details in RUNYA.md in this repo.
+**Web — when I want something visible fast**
+- React / Next / TypeScript / Tailwind. Landing pages for anime projects, dashboards, vtube overlays, art galleries.
+- Rule for small stuff: it should be shippable in an evening or two and look tidy.
+
+No merge without a build and a run on the laptop. If there is no number from the hardware, there is no claim.
+
+## Pinned
+
+- [dlss-moddify-3050](https://github.com/timatigoogl3-code/dlss-moddify-3050) — neural rendering patches for the laptop GPU.
+- [cjoka-engine](https://github.com/timatigoogl3-code/cjoka-engine) — engine experiment.
+- [llama.cpp](https://github.com/timatigoogl3-code/llama.cpp) — fork.
+
+## Setup
+
+Arch Linux, zsh + p10k, nvim, kitty, i3. JetBrains Mono, dark theme. One sticker on the lid per closed mod.
+
+## Achievements
+
+Quickdraw earned — more to come as PRs land.
+
+## Anime on the side
+
+Steins;Gate, Spice and Wolf, K-On, Nichijou, Frieren, Bocchi, Lycoris, Kaguya. One or two episodes in the evening, not a binge.
+
+City pop / lo-fi when reading asm. Syrniki and cocoa.
+
+## Contact
+
+- mail: cubetitled@gmail.com
+- details in [RUNYA.md](./RUNYA.md)
+
